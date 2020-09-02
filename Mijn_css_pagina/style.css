@@ -1,0 +1,20 @@
+body {
+    background-color: #b9b2bf;
+    color: #22172b;
+    font-family: 'Oswald', sans-serif; 
+}
+h1.black_border {
+    color: #ffffff;
+}
+p{
+    font-size: 16px;
+    font-weight: 300;
+}
+.black_border {
+    background-image: url(https://images.hdqwalls.com/wallpapers/skull-tiles-background-img.jpg);
+    border: 5px dotted #f09400;
+    padding: 10px;
+}
+a {
+    color: #f09400;
+}
